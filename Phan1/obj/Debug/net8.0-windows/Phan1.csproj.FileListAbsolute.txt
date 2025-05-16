@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Phan1\bin\Debug\net8.0-windows\Phan1.exe
+C:\Users\Administrator\source\repos\Phan1\bin\Debug\net8.0-windows\Phan1.deps.json
+C:\Users\Administrator\source\repos\Phan1\bin\Debug\net8.0-windows\Phan1.runtimeconfig.json
+C:\Users\Administrator\source\repos\Phan1\bin\Debug\net8.0-windows\Phan1.dll
+C:\Users\Administrator\source\repos\Phan1\bin\Debug\net8.0-windows\Phan1.pdb
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.Form1.resources
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.dll
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\refint\Phan1.dll
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.pdb
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\Phan1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Phan1\obj\Debug\net8.0-windows\ref\Phan1.dll

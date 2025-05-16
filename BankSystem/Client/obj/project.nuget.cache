@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vN3TdhNvWQo=",
+  "dgSpecHash": "uKSq19y5xwA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\ktgk-destop\\BankSystem\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.5\\microsoft.data.sqlite.core.9.0.5.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
