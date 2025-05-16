@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745047B7-7A3B-4A78-83EC-A32168FF4529}|Data\\Data.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745047B7-7A3B-4A78-83EC-A32168FF4529}|Data\\Data.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE357D-A996-4F78-AE37-D0A336AA070C}|Models\\Models.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE357D-A996-4F78-AE37-D0A336AA070C}|Models\\Models.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\client\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|solutionrelative:client\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|solutionrelative:client\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBE357D-A996-4F78-AE37-D0A336AA070C}|Models\\Models.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBE357D-A996-4F78-AE37-D0A336AA070C}|Models\\Models.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|c:\\users\\administrator\\downloads\\nhom_05\\banksystem\\client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC94FBEB-49E9-4620-BA31-9E74BC663EC1}|Client\\Client.csproj|solutionrelative:client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:58:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\MainForm.Designer.cs",
+              "RelativeToolTip": "Client\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:56:06.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\AccountService.cs",
+              "RelativeDocumentMoniker": "Client\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\AccountService.cs",
+              "RelativeToolTip": "Client\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:53:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:39:16.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "Client\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Client\\MainForm.cs [Design]",
+              "RelativeToolTip": "Client\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:36:39.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Models\\BankAccount.cs",
+              "RelativeToolTip": "Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:32:22.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Nhom_05\\BankSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:32:07.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
