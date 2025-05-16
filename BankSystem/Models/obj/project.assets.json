@@ -596,7 +596,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/9.0.5": {
-      "sha512": "WXOJRvMyZfecqosohGcicBC0BDjFosDEAWBUtXdKypPxx5QYDO7885sKdQNd9wl5X8RfUR6eingMxbMK29FxQg==",
+      "sha512": "6eErbrZFd9yNnncemtDdmHZ3KC792OQCIYITuMsjK2oh4CLzlYo8mzNsozgUzQ+utHnne11/3eV8zMWbYF5Puw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/9.0.5",
       "files": [
@@ -1018,7 +1018,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3/2.1.10": {
-      "sha512": "edTSlaaulgw9vdkzXUXZvZEr5u2wCf8UeS1oP7sgi7ZoXIc0+TuquXcLlP/8CrQVdirfCeIyDqY7COohmV0Mgg==",
+      "sha512": "mAr69tDbnf3QJpRy2nJz8Qdpebdil00fvycyByR58Cn9eARvR+UiG2Vzsp+4q1tV3ikwiYIjlXCQFc12GfebbA==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3/2.1.10",
       "files": [
